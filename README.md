@@ -13,13 +13,13 @@ The main objective of this project is to help you understand regular expressions
 |      `*`      | Asterisk       | Quantify       | Zero, one or more               |
 |      `+`      | Plus           | Quantify       | One or more                     |
 |     `{}`      | Curly brackets | Quantify       | From one value to another       |
-|      `^`      | Circunflexo    | Anchor         | Start of line                   |
-|      `$`      | Cifrão         | Anchor         | End of line                     |
-|     `\b`      | Borda          | Anchor         | Beginning or end of word        |
+|      `^`      | Circumflexus   | Anchor         | Start of line                   |
+|      `$`      | Dollar sign    | Anchor         | End of line                     |
+|     `\b`      | Border         | Anchor         | Beginning or end of word        |
 |      `\`      | Escape         | Other          | Make something literal          |
-|      `|`      | Ou             | Other          | Or one or the other             |
-|     `()`      | Grupo          | Other          | Delimits a group                |
-|     `\1`      | Retrovisor     | Other          | Text married in a certain group |
+|      `|`      | Or             | Other          | Or one or the other             |
+|     `()`      | Group          | Other          | Delimits a group                |
+|     `\1`      | Rearview       | Other          | Text married in a certain group |
 
 ## License
 
