@@ -17,7 +17,7 @@ The main objective of this project is to help you understand regular expressions
 |      `$`      | Dollar sign    | Anchor         | End of line                     |
 |     `\b`      | Border         | Anchor         | Beginning or end of word        |
 |      `\`      | Escape         | Other          | Make something literal          |
-|      `|`      | Or             | Other          | Or one or the other             |
+|     `\|`      | Or             | Other          | Or one or the other             |
 |     `()`      | Group          | Other          | Delimits a group                |
 |     `\1`      | Rearview       | Other          | Text married in a certain group |
 
