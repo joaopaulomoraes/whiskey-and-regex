@@ -39,6 +39,14 @@ With its traditional combination of rye [whiskey](#dot), sweet vermouth, and bit
 
 [9pm](#time-to-relax) is a good time to drink whiskey, but it's not a good time to drink coffee, in which case [9am](#time-to-relax) would be a more appropriate time. [9pm](#time-to-relax) can also be a good time for a cup of tea if you've already exceeded your daily whiskey quota.
 
+#### Time to walk
+
+```js
+/ca./
+```
+
+It is not recommended to drive a [car](#time-to-walk) if you drink a shot of whiskey, or any other alcoholic beverage. Maybe it's better to enjoy your [cat](#time-to-walk)'s company or prepare a new shot.
+
 ## License
 
 This project is licensed under the MIT License.
