@@ -31,6 +31,14 @@ The dot is a wildcard character that matches anything, including itself.
 
 With its traditional combination of rye [whiskey](#dot), sweet vermouth, and bitters, the Manhattan is an icon in the [whiskey](#dot) world. It is to [whiskey](#dot) what the martini is to gin and the base for countless cocktails. You can make it with bourbon, Canadian whisky, or any other style, and it's a splendid recipe to use when trying out any new-to-you brand of [whiskey](#dot).
 
+#### Time to relax
+
+```js
+/9.m/
+```
+
+[9pm](#time-to-relax) is a good time to drink whiskey, but it's not a good time to drink coffee, in which case [9am](#time-to-relax) would be a more appropriate time. [9pm](#time-to-relax) can also be a good time for a cup of tea if you've already exceeded your daily whiskey quota.
+
 ## License
 
 This project is licensed under the MIT License.
