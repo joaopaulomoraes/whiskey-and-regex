@@ -57,9 +57,9 @@ The [] construct in a regex is essentially shorthand for an | on all of the cont
 ```
 In that year (1907), an employee of the US Bureau of Chemistry and Soils came across the Jack and Coke drink while visiting the southern region of the country.
 
-To prepare you will only need [whiskey](#list), cola and some ice.
+To prepare you will only need [whisky](#list), cola and some ice.
 
-The popularity comes from the smoothing of the intense flavor that [whiskey](#list) has when mixed with soda.
+The popularity comes from the smoothing of the intense flavor that [whisky](#list) has when mixed with soda.
 
 
 #### Time to groove
