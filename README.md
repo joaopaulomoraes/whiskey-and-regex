@@ -55,6 +55,12 @@ The [] construct in a regex is essentially shorthand for an | on all of the cont
 ```js
 /[whisky]/
 ```
+In that year (1907), an employee of the US Bureau of Chemistry and Soils came across the Jack and Coke drink while visiting the southern region of the country.
+
+To prepare you will only need [whiskey](#list), cola and some ice.
+
+The popularity comes from the smoothing of the intense flavor that [whiskey](#list) has when mixed with soda.
+
 
 #### Time to groove
 
@@ -62,7 +68,7 @@ The [] construct in a regex is essentially shorthand for an | on all of the cont
 /[jazz]/
 ```
 
-Most of the time a good whiskey goes down very well accompanied by good music.
+Most of the time a good whiskey goes down very well accompanied by good music, like [jazz](#time-to-groove).
 
 ## License
 
