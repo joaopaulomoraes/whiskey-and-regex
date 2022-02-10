@@ -47,6 +47,23 @@ With its traditional combination of rye [whiskey](#dot), sweet vermouth, and bit
 
 It is not recommended to drive a [car](#time-to-walk) if you drink a shot of whiskey, or any other alcoholic beverage. Maybe it's better to enjoy your [cat](#time-to-walk)'s company or prepare a new shot.
 
+### List `[]`
+
+
+The [] construct in a regex is essentially shorthand for an | on all of the contents. For example [abc] matches a, b or c. 
+
+```js
+/[whisky]/
+```
+
+#### Time to think
+
+```js
+/[jazz]/
+```
+
+Most of the time a good whiskey goes down very well accompanied by good music.
+
 ## License
 
 This project is licensed under the MIT License.
