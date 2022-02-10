@@ -56,7 +56,7 @@ The [] construct in a regex is essentially shorthand for an | on all of the cont
 /[whisky]/
 ```
 
-#### Time to think
+#### Time to groove
 
 ```js
 /[jazz]/
