@@ -49,18 +49,13 @@ It is not recommended to drive a [car](#time-to-walk) if you drink a shot of whi
 
 ### List `[]`
 
-
-The [] construct in a regex is essentially shorthand for an | on all of the contents. For example [abc] matches a, b or c. 
+The list matches who she knows and has its own rules and within it everyone is normal, but the dash (`-`) indicates range and should be the last item on the list.
 
 ```js
-/[whisky]/
+/co[ckl][ea]/i
 ```
-In that year (1907), an employee of the US Bureau of Chemistry and Soils came across the Jack and Coke drink while visiting the southern region of the country.
 
-To prepare you will only need [whisky](#list), cola and some ice.
-
-The popularity comes from the smoothing of the intense flavor that [whisky](#list) has when mixed with soda.
-
+As the drink’s name implies, its two components are [Coca](#list)-[Cola](#list) or any [cola]((#list)) of your choice (though [Coke](#list)’s relatively high acidity renders it a particularly good match against the liquor), plus any whiskey, though Jack Daniel’s seems to be by far the most popular option—which is then called, yes, a Jack & [Coke](#list) or even a Lemmy, for the Motörhead frontman notoriously fond of the drink.
 
 #### Time to groove
 
