@@ -55,7 +55,7 @@ The list matches who she knows and has its own rules and within it everyone is n
 /co[ckl][ea]/i
 ```
 
-As the drink’s name implies, its two components are [Coca](#list)-[Cola](#list) or any [cola]((#list)) of your choice (though [Coke](#list)’s relatively high acidity renders it a particularly good match against the liquor), plus any whiskey, though Jack Daniel’s seems to be by far the most popular option—which is then called, yes, a Jack & [Coke](#list) or even a Lemmy, for the Motörhead frontman notoriously fond of the drink.
+As the drink’s name implies, its two components are [Coca](#list)-[Cola](#list) or any [cola](#list) of your choice (though [Coke](#list)’s relatively high acidity renders it a particularly good match against the liquor), plus any whiskey, though Jack Daniel’s seems to be by far the most popular option—which is then called, yes, a Jack & [Coke](#list) or even a Lemmy, for the Motörhead frontman notoriously fond of the drink.
 
 #### Time to groove
 
