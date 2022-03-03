@@ -57,13 +57,21 @@ The list matches who she knows and has its own rules and within it everyone is n
 
 As the drink’s name implies, its two components are [Coca](#list)-[Cola](#list) or any [cola](#list) of your choice (though [Coke](#list)’s relatively high acidity renders it a particularly good match against the liquor), plus any whiskey, though Jack Daniel’s seems to be by far the most popular option—which is then called, yes, a Jack & [Coke](#list) or even a Lemmy, for the Motörhead frontman notoriously fond of the drink.
 
-#### Time to groove
+#### Time to buy
 
 ```js
-/[jazz]/
+/ex[tp]ensive/
 ```
 
-Most of the time a good whiskey goes down very well accompanied by good music, like [jazz](#time-to-groove).
+Whiskey is an [extensive](#time-to-buy) drink for the trade, but the import price can get [expensive](#time-to-buy), especially for some palates.
+
+#### Nice jacket
+
+```js
+/co[ua]rse/
+```
+
+Is the texture of the jacket you are wearing smooth or [coarse](#nice-jacket)? Anyway, it goes great with your drink, of [course](#nice-jacket).
 
 ## License
 
