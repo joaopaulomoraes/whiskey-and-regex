@@ -47,6 +47,32 @@ With its traditional combination of rye [whiskey](#dot), sweet vermouth, and bit
 
 It is not recommended to drive a [car](#time-to-walk) if you drink a shot of whiskey, or any other alcoholic beverage. Maybe it's better to enjoy your [cat](#time-to-walk)'s company or prepare a new shot.
 
+### List `[]`
+
+The list matches who she knows and has its own rules and within it everyone is normal, but the dash (`-`) indicates range and should be the last item on the list.
+
+```js
+/co[ckl][ea]/i
+```
+
+As the drink’s name implies, its two components are [Coca](#list)-[Cola](#list) or any [cola](#list) of your choice (though [Coke](#list)’s relatively high acidity renders it a particularly good match against the liquor), plus any whiskey, though Jack Daniel’s seems to be by far the most popular option—which is then called, yes, a Jack & [Coke](#list) or even a Lemmy, for the Motörhead frontman notoriously fond of the drink.
+
+#### Time to buy
+
+```js
+/ex[tp]ensive/
+```
+
+Whiskey is an [extensive](#time-to-buy) drink for the trade, but the import price can get [expensive](#time-to-buy), especially for some palates.
+
+#### Nice jacket
+
+```js
+/co[ua]rse/
+```
+
+Is the texture of the jacket you are wearing smooth or [coarse](#nice-jacket)? Anyway, it goes great with your drink, of [course](#nice-jacket).
+
 ## License
 
 This project is licensed under the MIT License.
